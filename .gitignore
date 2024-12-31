@@ -1,0 +1,4 @@
+# Ignore sensitive files
+*.pem
+*.log
+
